@@ -1,0 +1,6 @@
+c:\users\fgonzalez\documents\visual studio 2012\Projects\linqTest\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\fgonzalez\documents\visual studio 2012\Projects\linqTest\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\fgonzalez\documents\visual studio 2012\Projects\linqTest\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\fgonzalez\documents\visual studio 2012\Projects\linqTest\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\fgonzalez\documents\visual studio 2012\Projects\linqTest\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\fgonzalez\documents\visual studio 2012\Projects\linqTest\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
